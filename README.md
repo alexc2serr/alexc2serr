@@ -3,9 +3,17 @@
 # Alejandro Serrano Calvo
 ### Software Engineer & Cybersecurity Specialist
 
-[![Profile Views](https://komarev.com/ghpvc/?username=alexc2serr&color=00ffcc&style=flat-square&label=PROFILE+VIEWS)](https://github.com/alexc2serr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro_Serrano-0077b5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com](https://www.linkedin.com/in/alejandro-serrano-calvo-92b02623a/))
-[![GitHub](https://img.shields.io/badge/GitHub-alexc2serr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexc2serr)
+<p align="center">
+  <a href="https://github.com/alexc2serr">
+    <img src="https://komarev.com/ghpvc/?username=alexc2serr&color=00ffcc&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
+  <a href="https://www.linkedin.com/in/alejandro-serrano-calvo-92b02623a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Alejandro_Serrano-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/alexc2serr" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-alexc2serr-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 </div>
 
