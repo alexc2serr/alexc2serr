@@ -7,6 +7,9 @@
   <a href="https://github.com/alexc2serr">
     <img src="https://komarev.com/ghpvc/?username=alexc2serr&color=00ffcc&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
+  <a href="https://alexc2serr.github.io/MyPortfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Alejandro_Serrano_—_Portfolio-00ffcc?style=flat-square&logo=googlechrome&logoColor=black" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/alejandro-serrano-calvo-92b02623a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Alejandro_Serrano-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
